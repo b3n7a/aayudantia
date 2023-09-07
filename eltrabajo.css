@@ -1,0 +1,20 @@
+body { 
+    background-color: aquamarine;
+}
+div p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkblue;
+    margin: auto 10px;
+}
+div img {
+    margin: 50px 300px 40px 40px;
+}
+#titulo { 
+    color: rgb(14, 15, 16);
+    font-style: Verdana;
+    background-color: aqua;
+}
+#links {
+    color: black;
+    margin: auto;
+}
